@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #quiz-container {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  #question {
+    margin-top: 30px;
+  }
+  
+  #choices {
+    list-style-type: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+  #choices li {
+    margin-bottom: 10px;
+  }
+  
+  #submit-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #submit-btn:hover {
+    background-color: #ac12b1;
+  }
+  
